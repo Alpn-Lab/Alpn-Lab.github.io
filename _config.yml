@@ -12,9 +12,15 @@ title                    : "The Adaptive Learning Neuroscience & Psychology Lab 
 title_separator          : "-"
 name                     : &name "The ALPN Lab"
 description              : &description "personal description"
+<<<<<<< HEAD
 url                      : https://alpn-lab.github.io/ # This should point to your GitHub Pages URL
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : https://github.com/Alpn-Lab/Alpn-Lab.github.io
+=======
+url                      : https://alpn-lab.github.io/ # the base hostname & protocol for your site
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "https://github.com/Alpn-Lab/Alpn-Lab.github.io"
+>>>>>>> 12167dfb369cde826b5ebd5b2057365758be5bd3
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
