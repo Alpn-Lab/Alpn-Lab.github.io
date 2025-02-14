@@ -4,8 +4,7 @@ The lab is led by **Dr. Lei Zhang** and is based at the [Centre for Human Brain 
 
 The lab has a strong emphasis on equality, diversity and supporting lab members to thrive.
 
-![CHBH](/images/chbh.png)
-![CHBH](/images/chbhlogo.gif)
+![CHBH](/images/IMG_1640.JPG)
 
 ## Our Research Focus
 
